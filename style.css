@@ -1,0 +1,16 @@
+ul {
+	list-style-type: none;	
+}
+
+.inline nav {
+	text-align: center;
+	display: block;
+}
+.inline nav ul {
+	list-style-type: : none;	
+}
+
+.inline  nav ul li {
+	display: inline;
+	text-align: center;	
+}
